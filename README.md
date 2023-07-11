@@ -1,6 +1,6 @@
 # E-Commerce
 
-The "E-COMMERCE" project is a database management system built using Java, Swing, and MySQL. It aims to provide a user-friendly interface for managing hotel operations such as adding employees, rooms, and drivers, as well as handling reception tasks.
+  The "E-COMMERCE" project is a database management system built using Java, Swing, and MySQL. It aims to provide a user-friendly interface for managing hotel operations such as adding employees, rooms, and drivers, as well as handling reception tasks.
 
 # Inventory Management
 
