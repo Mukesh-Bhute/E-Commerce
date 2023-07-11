@@ -1,7 +1,9 @@
-#E-Commerce
+# E-Commerce
+
 The "E-COMMERCE" project is a database management system built using Java, Swing, and MySQL. It aims to provide a user-friendly interface for managing hotel operations such as adding employees, rooms, and drivers, as well as handling reception tasks.
 
-Inventory Management
+# Inventory Management
+
 E-COMMERCE: The project focuses on managing a database of Car Showroom, including their Stock information and sales records. It provides functionalities for storing, retrieving, updating, and deleting student records in the database.
 
 CRUD Operations: The application supports CRUD (Create, Read, Update, Delete) operations for student records. Users can create new student records by inputting their details such as name, ID, address, and contact information. They can retrieve and display customer information from the database, update existing records, and delete records as needed.
