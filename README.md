@@ -13,3 +13,6 @@ Data Validation: The project likely includes mechanisms for validating user inpu
 Database Interaction: The project interacts with a database management system (DBMS) to store and retrieve student records. It likely uses JDBC (Java Database Connectivity) to establish a connection to the database and execute SQL queries.
 
 JFrame : Application is maily designed by using JFrame Java
+
+
+thank you to visit
